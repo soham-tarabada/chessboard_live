@@ -2,6 +2,9 @@
 
 This project is a React-based interactive chessboard application that allows users to dynamically create a grid-based board, toggle squares, and perform actions like undo, redo, and reset.
 
+## Live Demo 
+You can access the live version of this project at: [Live Chess Board](https://soham-tarabada.github.io/chessboard_live/) 
+
 ## Features
 
 - **Dynamic Grid Size**: Users can adjust the grid size between 8x8 and 20x20 using an input field.
